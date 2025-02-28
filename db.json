@@ -20,7 +20,7 @@
       {
         "id": 3,
         "title": "Kral Yataq",
-        "top": 60,
+        "top": 75,
         "left": 56,
         "image": "/assets/HomPage5-3.png",
         "price": "$350",
@@ -400,35 +400,35 @@
     "furniture": [
       {
         "name": "Divan kreslosu",
-        "image": "/assets/furniture6.jpg",
+        "image": "/assets/furniture1.jpg",
         "description": "Lüks parça ilə klassik divan kreslosu. Məhsul Kodu: AC006",
         "price": "$300",
         "itemCode": "AC006"
       },
       {
         "name": "Yemək Cədvəli",
-        "image": "/assets/furniture7.jpg",
+        "image": "/assets/furniture2.jpg",
         "description": "Toplantılar üçün elegant yemək cədvəli. Məhsul Kodu: DT007",
         "price": "$600",
         "itemCode": "DT007"
       },
       {
         "name": "Güzgü",
-        "image": "/assets/furniture8.jpg",
+        "image": "/assets/furniture3.jpg",
         "description": "Vintage cazibədar güzgü. Məhsul Kodu: MR008",
         "price": "$150",
         "itemCode": "MR008"
       },
       {
         "name": "Çekmecə dolabı",
-        "image": "/assets/furniture9.jpg",
+        "image": "/assets/furniture4.jpg",
         "description": "Klassik yataq otağı çekmecə dolabı. Məhsul Kodu: CD009",
         "price": "$400",
         "itemCode": "CD009"
       },
       {
         "name": "Yan şkaf",
-        "image": "/assets/furniture10.jpg",
+        "image": "/assets/furniture5.jpg",
         "description": "Rustik ağacdan yan şkaf. Məhsul Kodu: SB010",
         "price": "$350",
         "itemCode": "SB010"
@@ -467,35 +467,35 @@
     "furniture": [
       {
         "name": "Divan",
-        "image": "/assets/furniture11.jpg",
+        "image": "/assets/furniture1.jpg",
         "description": "Minimalist dizaynlı divan. Məhsul Kodu: MF011",
         "price": "$450",
         "itemCode": "MF011"
       },
       {
         "name": "Stul",
-        "image": "/assets/furniture12.jpg",
+        "image": "/assets/furniture2.jpg",
         "description": "Funkcional və estetik minimalist stul. Məhsul Kodu: MS012",
         "price": "$120",
         "itemCode": "MS012"
       },
       {
         "name": "Konsol",
-        "image": "/assets/furniture13.jpg",
+        "image": "/assets/furniture3.jpg",
         "description": "Sadə, lakonik konsol. Məhsul Kodu: CL013",
         "price": "$180",
         "itemCode": "CL013"
       },
       {
         "name": "Oturacaq",
-        "image": "/assets/furniture14.jpg",
+        "image": "/assets/furniture4.jpg",
         "description": "Minimalist tərzində oturacaq. Məhsul Kodu: OC014",
         "price": "$100",
         "itemCode": "OC014"
       },
       {
         "name": "Raf",
-        "image": "/assets/furniture15.jpg",
+        "image": "/assets/furniture5.jpg",
         "description": "Minimalist metal raf. Məhsul Kodu: RM015",
         "price": "$150",
         "itemCode": "RM015"
@@ -535,35 +535,35 @@
     "furniture": [
       {
         "name": "Yastıq",
-        "image": "/assets/furniture16.jpg",
+        "image": "/assets/furniture1.jpg",
         "description": "Rahat oturmaq üçün ideal yastıq. Məhsul Kodu: PY016",
         "price": "$50",
         "itemCode": "PY016"
       },
       {
         "name": "Çarpayı",
-        "image": "/assets/furniture17.jpg",
+        "image": "/assets/furniture2.jpg",
         "description": "Klassik dizaynlı rahat çarpayı. Məhsul Kodu: BD017",
         "price": "$550",
         "itemCode": "BD017"
       },
       {
         "name": "Çəkmece",
-        "image": "/assets/furniture18.jpg",
+        "image": "/assets/furniture3.jpg",
         "description": "Müasir dizaynlı çekmece. Məhsul Kodu: CD018",
         "price": "$150",
         "itemCode": "CD018"
       },
       {
         "name": "Yan Şkaf",
-        "image": "/assets/furniture19.jpg",
+        "image": "/assets/furniture4.jpg",
         "description": "Klassik stil yan şkaf. Məhsul Kodu: YS019",
         "price": "$200",
         "itemCode": "YS019"
       },
       {
         "name": "Stol",
-        "image": "/assets/furniture20.jpg",
+        "image": "/assets/furniture5.jpg",
         "description": "Dizaynlı iş stolu. Məhsul Kodu: WS020",
         "price": "$250",
         "itemCode": "WS020"
@@ -602,35 +602,35 @@
     "furniture": [
       {
         "name": "Oturacaq",
-        "image": "/assets/furniture21.jpg",
+        "image": "/assets/furniture1.jpg",
         "description": "Minimalist üslubda rahat oturacaq. Məhsul Kodu: OC021",
         "price": "$150",
         "itemCode": "OC021"
       },
       {
         "name": "Yemək Stolu",
-        "image": "/assets/furniture22.jpg",
+        "image": "/assets/furniture2.jpg",
         "description": "Sadə və şık yemək stolu. Məhsul Kodu: ST022",
         "price": "$300",
         "itemCode": "ST022"
       },
       {
         "name": "Raf",
-        "image": "/assets/furniture23.jpg",
+        "image": "/assets/furniture3.jpg",
         "description": "Minimalist metal raf. Məhsul Kodu: MR023",
         "price": "$120",
         "itemCode": "MR023"
       },
       {
         "name": "Güzgü",
-        "image": "/assets/furniture24.jpg",
+        "image": "/assets/furniture4.jpg",
         "description": "Minimalist dizaynda güzgü. Məhsul Kodu: MG024",
         "price": "$80",
         "itemCode": "MG024"
       },
       {
         "name": "Çekmece",
-        "image": "/assets/furniture25.jpg",
+        "image": "/assets/furniture5.jpg",
         "description": "Sadə çəkmece. Məhsul Kodu: CD025",
         "price": "$140",
         "itemCode": "CD025"
@@ -669,35 +669,35 @@
     "furniture": [
       {
         "name": "Divan",
-        "image": "/assets/furniture26.jpg",
+        "image": "/assets/furniture1.jpg",
         "description": "Müasir divan. Məhsul Kodu: MD026",
         "price": "$700",
         "itemCode": "MD026"
       },
       {
         "name": "Masa",
-        "image": "/assets/furniture27.jpg",
+        "image": "/assets/furniture2.jpg",
         "description": "Minimalist masa. Məhsul Kodu: MS027",
         "price": "$450",
         "itemCode": "MS027"
       },
       {
         "name": "Şkaf",
-        "image": "/assets/furniture28.jpg",
+        "image": "/assets/furniture3.jpg",
         "description": "Sadə şkaf. Məhsul Kodu: SC028",
         "price": "$400",
         "itemCode": "SC028"
       },
       {
         "name": "Raf",
-        "image": "/assets/furniture29.jpg",
+        "image": "/assets/furniture4.jpg",
         "description": "Müasir metal raf. Məhsul Kodu: MR029",
         "price": "$150",
         "itemCode": "MR029"
       },
       {
         "name": "Kreslo",
-        "image": "/assets/furniture30.jpg",
+        "image": "/assets/furniture5.jpg",
         "description": "Komfortlu kreslo. Məhsul Kodu: KF030",
         "price": "$350",
         "itemCode": "KF030"
