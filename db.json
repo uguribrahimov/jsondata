@@ -380,8 +380,8 @@
         "title": "Tablo Sahəsi",
         "image": "/assets/furniture3.jpg",
         "price": "$500",
-        "top": 28,
-        "left": 75
+        "top": 60,
+        "left": 30
       },
       {
         "id": 2,
