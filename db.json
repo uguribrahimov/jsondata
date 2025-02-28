@@ -296,12 +296,38 @@
       ]
     }
   ],
+  "categories": [
+    {
+      "id":1,
+      "title": "Klassik Dizayn",
+      "description": "Klassik dizayn, ənənəvi üslubda hazırlanmış, lüks və zəngin atmosfer yaradır.",
+      "image": "/assets/imgHomepage4-1.jpg"
+    },
+    {
+      "id":2,
+      "title": "Modern Dizayn",
+      "description": "Modern dizayn, sadəlik və funksionallıqla müasir, minimalist tərz təqdim edir.",
+      "image": "/assets/imgHomepage4-2.jpg"
+    },
+    {
+      "id":3,
+      "title": "Skandinaviya Dizaynı",
+      "description": "Skandinaviya dizaynı, təbii materiallar və sadəliklə rahat və sakit mühit yaradır.",
+      "image": "/assets/imgHomepage4-3.jpg"
+    },
+    {
+      "id":4,
+      "title": "Industrial Dizayn",
+      "description": "Industrial dizayn, sərt xətləri və metal elementləri ilə cəsur və unikal atmosfer təqdim edir.",
+      "image": "/assets/imgHomepage4-4.jpg"
+    }
+  ],
 
    "inspiration": [
   {
     "id": 1,
-    "title": "Kart 1",
-    "description": "Kart 1 üçün təsvir",
+    "title": "James Anderson Dizayn Dəsti",
+    "description": "Dizayn üçün təsvir",
     "category": "Müasir",
     "story": "Evinizi bəzəmək, rahatlıq və funksionallığı bir arada tapmaq hər zaman çətin olmuşdur. Amma artıq belə düşünməyə son! Yeni mebel kolleksiyamızla sizə ən son dizaynları, yüksək keyfiyyəti və müasir rahatlığı təqdim edirik. Hər biri ən yüksək standartlara uyğun hazırlanmış bu mebel parçaları, evinizdə həm gözəlliyi, həm də komfortu təmin edəcək. Mebel kolleksiyamızda istifadə edilən materiallar ekoloji cəhətdən təmiz və uzunömürlüdür. Mükəmməl istehsal prosesi ilə hər bir parça, uzun illər boyu istifadəyə uyğun olacaq şəkildə dizayn edilib. Həm funksional, həm də gözəl görünən mebellər, hər bir evə yaraşacaq incəlikdə hazırlanıb. Yalnız görkəmi ilə deyil, həm də rahatlığı ilə diqqət çəkən məhsullarımızla evinizdə hər anın tadını çıxarın. Yumuşaq oturacaq və bel dəstəyi ilə oturma guşəniz tam istədiyiniz kimi olacaq. Günün yorğunluğunu bu mebellərdə keçirərək, özünüzü tam rahat hiss edəcəksiniz. Müasir və minimalist dizaynlarla bəzədilmiş mebel dəstələrimiz, hər bir evə uyumlu olacaq şəkildə hazırlanıb. Mebelimiz yalnız funksional deyil, eyni zamanda estetik baxımdan da göz oxşayır. Evinizin hər küncünə müasir bir hava qatacaq bu kolleksiya ilə, evinizin atmosferini tamamilə dəyişdirə bilərsiniz.",
     "furniture": [
@@ -350,15 +376,15 @@
     "mainImages": "/assets/Rectangle 67.jpg",
     "mapAreas": [
       {
-        "title": "Divan Sahəsi",
-        "image": "/assets/furniture1.jpg",
+        "title": "Tablo Sahəsi",
+        "image": "/assets/furniture3.jpg",
         "price": "$500",
-        "top": 50,
-        "left": 40
+        "top": 28,
+        "left": 75
       },
       {
-        "title": "Lampalar Sahəsi",
-        "image": "/assets/furniture4.jpg",
+        "title": "Tablo Sahəsi",
+        "image": "/assets/furniture5.jpg",
         "price": "$100",
         "top": 30,
         "left": 60
@@ -367,8 +393,8 @@
   },
   {
     "id": 2,
-    "title": "Kart 2",
-    "description": "Kart 2 üçün təsvir",
+    "title": "Olivia Bennett Dizayn Dəsti",
+    "description": "Dizayn üçün təsvir",
     "category": "Klassik",
     "story": "Evinizi bəzəmək, rahatlıq və funksionallığı bir arada tapmaq hər zaman çətin olmuşdur. Amma artıq belə düşünməyə son! Yeni mebel kolleksiyamızla sizə ən son dizaynları, yüksək keyfiyyəti və müasir rahatlığı təqdim edirik. Hər biri ən yüksək standartlara uyğun hazırlanmış bu mebel parçaları, evinizdə həm gözəlliyi, həm də komfortu təmin edəcək. Mebel kolleksiyamızda istifadə edilən materiallar ekoloji cəhətdən təmiz və uzunömürlüdür. Mükəmməl istehsal prosesi ilə hər bir parça, uzun illər boyu istifadəyə uyğun olacaq şəkildə dizayn edilib. Həm funksional, həm də gözəl görünən mebellər, hər bir evə yaraşacaq incəlikdə hazırlanıb. Yalnız görkəmi ilə deyil, həm də rahatlığı ilə diqqət çəkən məhsullarımızla evinizdə hər anın tadını çıxarın. Yumuşaq oturacaq və bel dəstəyi ilə oturma guşəniz tam istədiyiniz kimi olacaq. Günün yorğunluğunu bu mebellərdə keçirərək, özünüzü tam rahat hiss edəcəksiniz. Müasir və minimalist dizaynlarla bəzədilmiş mebel dəstələrimiz, hər bir evə uyumlu olacaq şəkildə hazırlanıb. Mebelimiz yalnız funksional deyil, eyni zamanda estetik baxımdan da göz oxşayır. Evinizin hər küncünə müasir bir hava qatacaq bu kolleksiya ilə, evinizin atmosferini tamamilə dəyişdirə bilərsiniz.",
     "furniture": [
@@ -417,25 +443,25 @@
     "mainImages": "/assets/Rectangle 67.jpg",
     "mapAreas": [
       {
-        "title": "Yemək Cədvəli Sahəsi",
-        "image": "/assets/furniture7.jpg",
-        "price": "$600",
-        "top": 55,
-        "left": 35
+        "title": "Tablo Sahəsi",
+        "image": "/assets/furniture3.jpg",
+        "price": "$500",
+        "top": 28,
+        "left": 75
       },
       {
-        "title": "Divan kreslosu Sahəsi",
-        "image": "/assets/furniture6.jpg",
-        "price": "$300",
-        "top": 40,
-        "left": 70
+        "title": "Tablo Sahəsi",
+        "image": "/assets/furniture5.jpg",
+        "price": "$100",
+        "top": 30,
+        "left": 60
       }
     ]
   },
   {
     "id": 3,
-    "title": "Kart 3",
-    "description": "Kart 3 üçün təsvir",
+    "title": "Ethan Collins Dizayn Dəsti",
+    "description": "Dizayn üçün təsvir",
     "category": "Minimalist",
     "story": "Evinizi bəzəmək, rahatlıq və funksionallığı bir arada tapmaq hər zaman çətin olmuşdur. Amma artıq belə düşünməyə son! Yeni mebel kolleksiyamızla sizə ən son dizaynları, yüksək keyfiyyəti və müasir rahatlığı təqdim edirik. Hər biri ən yüksək standartlara uyğun hazırlanmış bu mebel parçaları, evinizdə həm gözəlliyi, həm də komfortu təmin edəcək. Mebel kolleksiyamızda istifadə edilən materiallar ekoloji cəhətdən təmiz və uzunömürlüdür. Mükəmməl istehsal prosesi ilə hər bir parça, uzun illər boyu istifadəyə uyğun olacaq şəkildə dizayn edilib. Həm funksional, həm də gözəl görünən mebellər, hər bir evə yaraşacaq incəlikdə hazırlanıb. Yalnız görkəmi ilə deyil, həm də rahatlığı ilə diqqət çəkən məhsullarımızla evinizdə hər anın tadını çıxarın. Yumuşaq oturacaq və bel dəstəyi ilə oturma guşəniz tam istədiyiniz kimi olacaq. Günün yorğunluğunu bu mebellərdə keçirərək, özünüzü tam rahat hiss edəcəksiniz. Müasir və minimalist dizaynlarla bəzədilmiş mebel dəstələrimiz, hər bir evə uyumlu olacaq şəkildə hazırlanıb. Mebelimiz yalnız funksional deyil, eyni zamanda estetik baxımdan da göz oxşayır. Evinizin hər küncünə müasir bir hava qatacaq bu kolleksiya ilə, evinizin atmosferini tamamilə dəyişdirə bilərsiniz.",
     "furniture": [
@@ -484,16 +510,16 @@
     "mainImages": "/assets/Rectangle 67.jpg",
     "mapAreas": [
       {
-        "title": "Divan Sahəsi",
-        "image": "/assets/furniture11.jpg",
-        "price": "$450",
-        "top": 50,
-        "left": 40
+        "title": "Tablo Sahəsi",
+        "image": "/assets/furniture3.jpg",
+        "price": "$500",
+        "top": 28,
+        "left": 75
       },
       {
-        "title": "Stul Sahəsi",
-        "image": "/assets/furniture12.jpg",
-        "price": "$120",
+        "title": "Tablo Sahəsi",
+        "image": "/assets/furniture5.jpg",
+        "price": "$100",
         "top": 30,
         "left": 60
       }
@@ -502,8 +528,8 @@
 
   {
     "id": 4,
-    "title": "Kart 4",
-    "description": "Kart 4 üçün təsvir",
+    "title": "Isabella Harris Dizayn Dəsti",
+    "description": "Dizayn üçün təsvir",
     "category": "Klassik",
     "story": "Evinizi bəzəmək, rahatlıq və funksionallığı bir arada tapmaq hər zaman çətin olmuşdur. Amma artıq belə düşünməyə son! Yeni mebel kolleksiyamızla sizə ən son dizaynları, yüksək keyfiyyəti və müasir rahatlığı təqdim edirik. Hər biri ən yüksək standartlara uyğun hazırlanmış bu mebel parçaları, evinizdə həm gözəlliyi, həm də komfortu təmin edəcək. Mebel kolleksiyamızda istifadə edilən materiallar ekoloji cəhətdən təmiz və uzunömürlüdür. Mükəmməl istehsal prosesi ilə hər bir parça, uzun illər boyu istifadəyə uyğun olacaq şəkildə dizayn edilib. Həm funksional, həm də gözəl görünən mebellər, hər bir evə yaraşacaq incəlikdə hazırlanıb. Yalnız görkəmi ilə deyil, həm də rahatlığı ilə diqqət çəkən məhsullarımızla evinizdə hər anın tadını çıxarın. Yumuşaq oturacaq və bel dəstəyi ilə oturma guşəniz tam istədiyiniz kimi olacaq. Günün yorğunluğunu bu mebellərdə keçirərək, özünüzü tam rahat hiss edəcəksiniz. Müasir və minimalist dizaynlarla bəzədilmiş mebel dəstələrimiz, hər bir evə uyumlu olacaq şəkildə hazırlanıb. Mebelimiz yalnız funksional deyil, eyni zamanda estetik baxımdan da göz oxşayır. Evinizin hər küncünə müasir bir hava qatacaq bu kolleksiya ilə, evinizin atmosferini tamamilə dəyişdirə bilərsiniz.",
     "furniture": [
@@ -552,25 +578,25 @@
     "mainImages": "/assets/Rectangle 67.jpg",
     "mapAreas": [
       {
-        "title": "Çarpayı Sahəsi",
-        "image": "/assets/furniture17.jpg",
-        "price": "$550",
-        "top": 45,
-        "left": 50
+        "title": "Tablo Sahəsi",
+        "image": "/assets/furniture3.jpg",
+        "price": "$500",
+        "top": 28,
+        "left": 75
       },
       {
-        "title": "Stol Sahəsi",
-        "image": "/assets/furniture20.jpg",
-        "price": "$250",
+        "title": "Tablo Sahəsi",
+        "image": "/assets/furniture5.jpg",
+        "price": "$100",
         "top": 30,
-        "left": 75
+        "left": 60
       }
     ]
   },
   {
     "id": 5,
-    "title": "Kart 5",
-    "description": "Kart 5 üçün təsvir",
+    "title": "Lucas Mitchell Dizayn Dəsti",
+    "description": "Dizayn üçün təsvir",
     "category": "Minimalist",
     "story": "Evinizi bəzəmək, rahatlıq və funksionallığı bir arada tapmaq hər zaman çətin olmuşdur. Amma artıq belə düşünməyə son! Yeni mebel kolleksiyamızla sizə ən son dizaynları, yüksək keyfiyyəti və müasir rahatlığı təqdim edirik. Hər biri ən yüksək standartlara uyğun hazırlanmış bu mebel parçaları, evinizdə həm gözəlliyi, həm də komfortu təmin edəcək. Mebel kolleksiyamızda istifadə edilən materiallar ekoloji cəhətdən təmiz və uzunömürlüdür. Mükəmməl istehsal prosesi ilə hər bir parça, uzun illər boyu istifadəyə uyğun olacaq şəkildə dizayn edilib. Həm funksional, həm də gözəl görünən mebellər, hər bir evə yaraşacaq incəlikdə hazırlanıb. Yalnız görkəmi ilə deyil, həm də rahatlığı ilə diqqət çəkən məhsullarımızla evinizdə hər anın tadını çıxarın. Yumuşaq oturacaq və bel dəstəyi ilə oturma guşəniz tam istədiyiniz kimi olacaq. Günün yorğunluğunu bu mebellərdə keçirərək, özünüzü tam rahat hiss edəcəksiniz. Müasir və minimalist dizaynlarla bəzədilmiş mebel dəstələrimiz, hər bir evə uyumlu olacaq şəkildə hazırlanıb. Mebelimiz yalnız funksional deyil, eyni zamanda estetik baxımdan da göz oxşayır. Evinizin hər küncünə müasir bir hava qatacaq bu kolleksiya ilə, evinizin atmosferini tamamilə dəyişdirə bilərsiniz.",
     "furniture": [
@@ -619,25 +645,25 @@
     "mainImages": "/assets/Rectangle 67.jpg",
     "mapAreas": [
       {
-        "title": "Yemək Stolu Sahəsi",
-        "image": "/assets/furniture22.jpg",
-        "price": "$300",
-        "top": 40,
-        "left": 50
+        "title": "Tablo Sahəsi",
+        "image": "/assets/furniture3.jpg",
+        "price": "$500",
+        "top": 28,
+        "left": 75
       },
       {
-        "title": "Raf Sahəsi",
-        "image": "/assets/furniture23.jpg",
-        "price": "$120",
+        "title": "Tablo Sahəsi",
+        "image": "/assets/furniture5.jpg",
+        "price": "$100",
         "top": 30,
-        "left": 70
+        "left": 60
       }
     ]
   },
   {
     "id": 6,
-    "title": "Kart 6",
-    "description": "Kart 6 üçün təsvir",
+    "title": "Charlotte Walker Dizayn Dəsti",
+    "description": "Dizayn üçün təsvir",
     "category": "Müasir",
     "story": "Evinizi bəzəmək, rahatlıq və funksionallığı bir arada tapmaq hər zaman çətin olmuşdur. Amma artıq belə düşünməyə son! Yeni mebel kolleksiyamızla sizə ən son dizaynları, yüksək keyfiyyəti və müasir rahatlığı təqdim edirik. Hər biri ən yüksək standartlara uyğun hazırlanmış bu mebel parçaları, evinizdə həm gözəlliyi, həm də komfortu təmin edəcək. Mebel kolleksiyamızda istifadə edilən materiallar ekoloji cəhətdən təmiz və uzunömürlüdür. Mükəmməl istehsal prosesi ilə hər bir parça, uzun illər boyu istifadəyə uyğun olacaq şəkildə dizayn edilib. Həm funksional, həm də gözəl görünən mebellər, hər bir evə yaraşacaq incəlikdə hazırlanıb. Yalnız görkəmi ilə deyil, həm də rahatlığı ilə diqqət çəkən məhsullarımızla evinizdə hər anın tadını çıxarın. Yumuşaq oturacaq və bel dəstəyi ilə oturma guşəniz tam istədiyiniz kimi olacaq. Günün yorğunluğunu bu mebellərdə keçirərək, özünüzü tam rahat hiss edəcəksiniz. Müasir və minimalist dizaynlarla bəzədilmiş mebel dəstələrimiz, hər bir evə uyumlu olacaq şəkildə hazırlanıb. Mebelimiz yalnız funksional deyil, eyni zamanda estetik baxımdan da göz oxşayır. Evinizin hər küncünə müasir bir hava qatacaq bu kolleksiya ilə, evinizin atmosferini tamamilə dəyişdirə bilərsiniz.",
     "furniture": [
@@ -686,17 +712,17 @@
     "mainImages": "/assets/Rectangle 67.jpg",
     "mapAreas": [
       {
-        "title": "Divan Sahəsi",
-        "image": "/assets/furniture26.jpg",
-        "price": "$700",
-        "top": 35,
-        "left": 45
+        "title": "Tablo Sahəsi",
+        "image": "/assets/furniture3.jpg",
+        "price": "$500",
+        "top": 28,
+        "left": 75
       },
       {
-        "title": "Masa Sahəsi",
-        "image": "/assets/furniture27.jpg",
-        "price": "$450",
-        "top": 50,
+        "title": "Tablo Sahəsi",
+        "image": "/assets/furniture5.jpg",
+        "price": "$100",
+        "top": 30,
         "left": 60
       }
     ]
