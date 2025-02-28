@@ -437,10 +437,10 @@
       }
     ],
     "images": [
-      "/bir.jpg",
-      "/bir1.jpg",
-      "/bir2.jpg",
-      "/bir3.jpg"
+      "/assets/bir.jpg",
+      "/assets/bir1.jpg",
+      "/assets/bir2.jpg",
+      "/assets/bir3.jpg"
     ],
     "mainImages": "/assets/Rectangle 67.jpg",
     "mapAreas": [
@@ -506,10 +506,10 @@
       }
     ],
     "images": [
-      "/iki.jpg",
-      "/iki1.jpg",
-      "/iki2.jpg",
-      "/iki3.jpg"
+      "/assets/iki.jpg",
+      "/assets/iki1.jpg",
+      "/assets/iki2.jpg",
+      "/assets/iki3.jpg"
     ],
     "mainImages": "/assets/Rectangle 67.jpg",
     "mapAreas": [
@@ -576,10 +576,10 @@
       }
     ],
     "images": [
-      "/uc.jpg",
-      "/uc1.jpg",
-      "/uc2.jpg",
-      "/uc3.jpg"
+      "/assets/uc.jpg",
+      "/assets/uc1.jpg",
+      "/assets/uc2.jpg",
+      "/assets/uc3.jpg"
     ],
     "mainImages": "/assets/Rectangle 67.jpg",
     "mapAreas": [
@@ -645,10 +645,10 @@
       }
     ],
     "images": [
-      "/dort.jpg",
-      "/dort1.jpg",
-      "/dort2.jpg",
-      "/dort3.jpg"
+      "/assets/dort.jpg",
+      "/assets/dort1.jpg",
+      "/assets/dort2.jpg",
+      "/assets/dort3.jpg"
     ],
     "mainImages": "/assets/Rectangle 67.jpg",
     "mapAreas": [
@@ -714,10 +714,10 @@
       }
     ],
     "images": [
-      "/bes.jpg",
-      "/bes1.jpg",
-      "/bes2.jpg",
-      "/bes3.jpg"
+      "assets/iki.jpg",
+      "/assets/iki1.jpg",
+      "/assets/iki2.jpg",
+      "/assets/iki3.jpg"
     ],
     "mainImages": "/assets/Rectangle 67.jpg",
     "mapAreas": [
