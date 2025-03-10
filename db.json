@@ -84,56 +84,56 @@
       "category": "Suvenir",
       "name": "Suvenir",
       "price": "$500",
-      "image": "/assets/HomePage5-1.jpg"
+      "image": "/assets/HomePage5-1.png"
     },
     {
       "id": 2,
       "category": "Kreslo",
       "name": "Rahat Kreslo",
       "price": "$150",
-      "image": "/assets/HomPage5-2.jpg"
+      "image": "/assets/HomPage5-2.png"
     },
     {
       "id": 3,
       "category": "Yataq",
       "name": "Rahat Yataq",
       "price": "$300",
-      "image": "/assets/HomPage5-3.jpg"
+      "image": "/assets/HomPage5-3.png"
     },
     {
       "id": 4,
       "category": "Yataq",
       "name": "Müasir Yataq",
       "price": "$100",
-      "image": "/assets/HomPage5-4.jpg"
+      "image": "/assets/HomPage5-4.png"
     },
     {
       "id": 5,
       "category": "Yataq",
       "name": "Kral Yataq",
       "price": "$800",
-      "image": "/assets/HomPage5-5.jpg"
+      "image": "/assets/HomPage5-5.png"
     },
     {
       "id": 6,
       "category": "Stul",
       "name": "Stul",
       "price": "$450",
-      "image": "/assets/HomPage5-7.jpg"
+      "image": "/assets/HomPage5-7.png"
     },
     {
       "id": 7,
       "category": "Kreslo",
       "name": "Ofis Kreslosu",
       "price": "$200",
-      "image": "/assets/HomPage5-8.jpg"
+      "image": "/assets/HomPage5-8.png"
     },
     {
       "id": 8,
       "category": "Suvenir",
       "name": "Suvenir",
       "price": "$400",
-      "image": "/assets/HomPage5-9.jpg"
+      "image": "/assets/HomPage5-9.png"
     }
   ],
   "cartDetails": [
@@ -142,7 +142,7 @@
       "category": "Suvenir",
       "name": "Suvenir",
       "price": "$500",
-      "image": "/assets/HomePage5-1.jpg",
+      "image": "/assets/HomePage5-1.png",
       "description": "Bu suvenir, görkəmli memar Santiago Calatrava'nın monumental arxitektura formalarından ilham alınaraq hazırlanmışdır. Onun dizaynı həm estetik, həm də funksional baxımdan bir incəsənət əsəridir. Zig-zag formasında olan ayaqları və döyülmüş dəmir detallar ilə taxta üst hissəsi, bu suveniri həm zövqlü, həm də yadda qalan bir xatirəyə çevirir.",
       "dimension": "120x80x40 sm",
       "color": "Ağ",
@@ -153,7 +153,7 @@
       "category": "Kreslo",
       "name": "Rahat Kreslo",
       "price": "$150",
-      "image": "/assets/HomPage5-2.jpg",
+      "image": "/assets/HomPage5-2.png",
       "description": "Bu kreslo, görkəmli memar Santiago Calatrava'nın monumental arxitektura formalarından ilham alınaraq dizayn edilmişdir. Zig-zag formasında olan ayaqları və döyülmüş dəmirdən hazırlanmış unikallığı ilə həm estetik, həm də rahatlıq baxımından əsl sənət nümunəsidir. Modern tərzi və incə detalları ilə hər otağa fərqli bir havas qatır.",
       "dimension": "80x40x40 sm",
       "color": "Qara",
@@ -164,7 +164,7 @@
       "category": "Yataq",
       "name": "Rahat Yataq",
       "price": "$300",
-      "image": "/assets/HomPage5-3.jpg",
+      "image": "/assets/HomPage5-3.png",
       "description": "Bu yataq, görkəmli memar Santiago Calatrava'nın monumental arxitektura formalarından ilham alınaraq hazırlanmışdır. İnnovativ dizaynı və zərif detalları ilə həm estetik, həm də funksional baxımdan mükəmməldir. Unikal strukturu, döyülmüş dəmir və taxta elementlərin ahəngdar birləşməsi ilə rahatlıq və şıklığı bir araya gətirir. Hər yuxu, bu yataqda incəsənətə çevrilir.",
       "dimension": "120x60x45 sm",
       "color": "Qəhvəyi",
@@ -175,7 +175,7 @@
       "category": "Yataq",
       "name": "Müasir Yataq",
       "price": "$100",
-      "image": "/assets/HomPage5-4.jpg",
+      "image": "/assets/HomPage5-4.png",
       "description": "Bu yataq, görkəmli memar Santiago Calatrava'nın monumental arxitektura formalarından ilham alınaraq hazırlanmışdır. İnnovativ dizaynı və zərif detalları ilə həm estetik, həm də funksional baxımdan mükəmməldir. Unikal strukturu, döyülmüş dəmir və taxta elementlərin ahəngdar birləşməsi ilə rahatlıq və şıklığı bir araya gətirir. Hər yuxu, bu yataqda incəsənətə çevrilir.",
       "dimension": "100x50 sm",
       "color": "Gümüş",
@@ -186,7 +186,7 @@
       "category": "Yataq",
       "name": "Kral Yataq",
       "price": "$800",
-      "image": "/assets/HomPage5-5.jpg",
+      "image": "/assets/HomPage5-5.png",
       "description": "Bu yataq, görkəmli memar Santiago Calatrava'nın monumental arxitektura formalarından ilham alınaraq hazırlanmışdır. İnnovativ dizaynı və zərif detalları ilə həm estetik, həm də funksional baxımdan mükəmməldir. Unikal strukturu, döyülmüş dəmir və taxta elementlərin ahəngdar birləşməsi ilə rahatlıq və şıklığı bir araya gətirir. Hər yuxu, bu yataqda incəsənətə çevrilir.",
       "dimension": "200x180x60 sm",
       "color": "Boz",
@@ -197,7 +197,7 @@
       "category": "Stul",
       "name": "Stul",
       "price": "$450",
-      "image": "/assets/HomPage5-7.jpg",
+      "image": "/assets/HomPage5-7.png",
       "description": "Bu stul, görkəmli memar Santiago Calatrava'nın monumental arxitektura formalarından ilham alınaraq hazırlanmışdır. Zərif və innovativ dizaynı ilə həm estetik, həm də rahatlıq baxımından mükəmməl bir nümunədir. Zig-zag forması və döyülmüş dəmir detalları, onu sadəcə bir mebel deyil, bir sənət əsərinə çevirir.",
       "dimension": "120x70x40 sm",
       "color": "Bej",
@@ -208,7 +208,7 @@
       "category": "Kreslo",
       "name": "Ofis Kreslosu",
       "price": "$200",
-      "image": "/assets/HomPage5-8.jpg",
+      "image": "/assets/HomPage5-8.png",
       "description": "Bu kreslo, görkəmli memar Santiago Calatrava'nın monumental arxitektura formalarından ilham alınaraq dizayn edilmişdir. Zig-zag formasında olan ayaqları və döyülmüş dəmirdən hazırlanmış unikallığı ilə həm estetik, həm də rahatlıq baxımından əsl sənət nümunəsidir. Modern tərzi və incə detalları ilə hər otağa fərqli bir havas qatır.",
       "dimension": "90x60x60 sm",
       "color": "Qara",
@@ -219,7 +219,7 @@
       "category": "Suvenir",
       "name": "Suvenir",
       "price": "$400",
-      "image": "/assets/HomPage5-9.jpg",
+      "image": "/assets/HomPage5-9.png",
       "description": "Bu suvenir, görkəmli memar Santiago Calatrava'nın monumental arxitektura formalarından ilham alınaraq hazırlanmışdır. Onun dizaynı həm estetik, həm də funksional baxımdan bir incəsənət əsəridir. Zig-zag formasında olan ayaqları və döyülmüş dəmir detallar ilə taxta üst hissəsi, bu suveniri həm zövqlü, həm də yadda qalan bir xatirəyə çevirir.",
       "dimension": "180x90x75 sm",
       "color": "Qəhvəyi",
